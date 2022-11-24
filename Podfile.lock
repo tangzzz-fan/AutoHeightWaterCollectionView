@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.6.2)
+  - CHTCollectionViewWaterfallLayout (0.9.10):
+    - CHTCollectionViewWaterfallLayout/Swift (= 0.9.10)
+  - CHTCollectionViewWaterfallLayout/Swift (0.9.10)
+  - CRRefresh (1.1.3)
+  - Moya (15.0.0):
+    - Moya/Core (= 15.0.0)
+  - Moya/Core (15.0.0):
+    - Alamofire (~> 5.0)
+
+DEPENDENCIES:
+  - CHTCollectionViewWaterfallLayout
+  - CRRefresh
+  - Moya
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CHTCollectionViewWaterfallLayout
+    - CRRefresh
+    - Moya
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  CHTCollectionViewWaterfallLayout: b989a459788d7657ac010e03bc0f7eedca95a420
+  CRRefresh: 1415d4ae06837fa7bb064c44f2e102f3ef517044
+  Moya: 138f0573e53411fb3dc17016add0b748dfbd78ee
+
+PODFILE CHECKSUM: cbe80f16d828cdb0e9dd01064e049ca63153a17c
+
+COCOAPODS: 1.11.3
